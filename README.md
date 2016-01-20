@@ -1,7 +1,19 @@
 # The-Babel-Project
 A referential collection of algorithms and problems implemented in various programming languages against various context.
 
-## Algorithm Classifications
+## Algorithms
+
+### Language Coverage
+
+- C++ 0%
+- Go 0%
+- JavaScript 0%
+- Scala 0%
+- Swift 0%
+- Ruby 0%
+- Rust 0%
+
+### Classifications
 
 1)     Brute force
 
@@ -17,4 +29,44 @@ A referential collection of algorithms and problems implemented in various progr
 
 7)     Backtracking Algorithm
 
-## Data Structures Classifications
+## Data Structures
+
+### Language Coverage
+
+- C++ 0%
+- Go 0%
+- JavaScript 0%
+- Scala 0%
+- Swift 0%
+- Ruby 0%
+- Rust 0%
+
+### Classifications
+
+## Design-Patterns
+
+### Language Coverage
+
+- C++ 0%
+- Go 0%
+- JavaScript 0%
+- Scala 0%
+- Swift 0%
+- Ruby 0%
+- Rust 0%
+
+### Classifications
+
+## Data Structures
+
+### Language Coverage
+
+- C++ 0%
+- Go 0%
+- JavaScript 0%
+- Scala 0%
+- Swift 0%
+- Ruby 0%
+- Rust 0%
+
+### Classifications
