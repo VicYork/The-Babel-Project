@@ -1,0 +1,1 @@
+Given a multidimetional array, `flattenArray` transforms it into a flat array.
