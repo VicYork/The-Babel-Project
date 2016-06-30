@@ -5,13 +5,15 @@ A referential collection of algorithms and problems implemented in various progr
 
 ### Language Coverage
 
-- C++ 0%
-- Go 0%
 - JavaScript 0%
-- Scala 0%
-- Swift 0%
 - Ruby 0%
+
+- Go 0%
 - Rust 0%
+- Swift 0%
+
+- Java 0%
+- Scala 0%
 
 ### Classifications
 
@@ -33,13 +35,15 @@ A referential collection of algorithms and problems implemented in various progr
 
 ### Language Coverage
 
-- C++ 0%
-- Go 0%
 - JavaScript 0%
-- Scala 0%
-- Swift 0%
 - Ruby 0%
+
+- Go 0%
 - Rust 0%
+- Swift 0%
+
+- Java 0%
+- Scala 0%
 
 ### Classifications
 
@@ -47,13 +51,15 @@ A referential collection of algorithms and problems implemented in various progr
 
 ### Language Coverage
 
-- C++ 0%
-- Go 0%
 - JavaScript 0%
-- Scala 0%
-- Swift 0%
 - Ruby 0%
+
+- Go 0%
 - Rust 0%
+- Swift 0%
+
+- Java 0%
+- Scala 0%
 
 ### Classifications
 
@@ -61,12 +67,14 @@ A referential collection of algorithms and problems implemented in various progr
 
 ### Language Coverage
 
-- C++ 0%
-- Go 0%
 - JavaScript 0%
-- Scala 0%
-- Swift 0%
 - Ruby 0%
+
+- Go 0%
 - Rust 0%
+- Swift 0%
+
+- Java 0%
+- Scala 0%
 
 ### Classifications
